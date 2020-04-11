@@ -1,0 +1,15 @@
+body {font-family: "Lato", sans-serif}
+
+.mySlides {display: none}
+
+#navDemo {
+  margin-top:46px
+}
+.w3-content {
+  max-width:2000px;
+  margin-top:46px
+}
+#aqiMaps {
+  text-align: center;
+  padding-left: 100px;
+}
